@@ -1,0 +1,7 @@
+name 'chef'
+maintainer 'Vincent AUBERT'
+maintainer_email 'vincentaubert88@gmail.com'
+license 'gplv3'
+description 'Installs/Configures chef'
+long_description 'Installs/Configures chef'
+version '0.1.0'
